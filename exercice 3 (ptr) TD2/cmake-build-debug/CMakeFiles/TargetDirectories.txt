@@ -1,0 +1,3 @@
+/Users/ikram/CLionProjects/exercice 3 TD2/cmake-build-debug/CMakeFiles/untitled8.dir
+/Users/ikram/CLionProjects/exercice 3 TD2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ikram/CLionProjects/exercice 3 TD2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
